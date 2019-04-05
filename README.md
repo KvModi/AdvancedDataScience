@@ -4,7 +4,7 @@ Music Mood Classifier
 
 Aim: Build a machine learning model to classify Chinese songs in between happy or sad. 
 
-Step 1:
+Step 1: File: https://bit.ly/2IdPsuZ
 Preparing the data:
     For the purpose of this exercise, we will build models using these datasets:
     • https://raw.githubusercontent.com/rasbt/musicmood/master/dataset/training/train_lyrics_1000.csv

@@ -25,4 +25,11 @@ Recall for the test is:  63.8095238095238
 F1 score for the test is:  69.0721649484536
 
 The function model_predict is used to make the prediction.
- 
+
+Step 2 Application : Building a flask application which will take the input of Chinese song and translate it to english. The model_predict function is used to predict whether the song is happy or sad.
+
+Step 3: We finally deployed the application on heroku.
+
+https://assignment4musicmood.herokuapp.com https://musicmoodversion2.herokuapp.com
+
+Claat: https://codelabs-preview.appspot.com/?file_id=1jG89Wz1-M-ZfXXaEVbqBMbEGy5P5gxnOW7UNrh4cLwI#0 Youtube Link: https://youtu.be/p35Iqu4k3Rs

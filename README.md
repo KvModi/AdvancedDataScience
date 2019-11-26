@@ -1,6 +1,4 @@
-# AdvancedDataScience 
-
-Music Mood Classifier 
+# Music Mood Classifier 
 
 Aim: Build a machine learning model to classify Chinese songs in between happy or sad. 
 

@@ -82,7 +82,7 @@ graphviz==0.8.4
 greenlet==0.4.15
 grpcio==1.19.0
 grpcio-tools==1.19.0
-gunicorn==19.9.0
+gunicorn==22.0.0
 h5py==2.8.0
 heapdict==1.0.0
 html5lib==1.0.1
@@ -109,7 +109,7 @@ jupyter-core==4.4.0
 jupyterlab==0.35.4
 jupyterlab-launcher==0.13.1
 jupyterlab-server==0.2.0
-Keras==2.2.4
+Keras==2.13.1rc0
 Keras-Applications==1.0.7
 Keras-Preprocessing==1.0.9
 keyring==18.0.0

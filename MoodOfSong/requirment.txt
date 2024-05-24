@@ -210,7 +210,7 @@ pyzmq==17.1.2
 QtAwesome==0.5.7
 qtconsole==4.4.3
 QtPy==1.6.0
-requests==2.21.0
+requests==2.32.0
 rope==0.12.0
 ruamel-yaml==0.15.46
 s3fs==0.2.0

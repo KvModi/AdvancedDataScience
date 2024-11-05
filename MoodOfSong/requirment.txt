@@ -74,7 +74,7 @@ funcsigs==1.0.2
 future==0.17.1
 gast==0.2.2
 george==0.3.1
-gevent==1.4.0
+gevent==24.10.1
 glob2==0.6
 gmpy2==2.0.8
 googletrans==2.4.0
@@ -261,7 +261,7 @@ urllib3==1.24.1
 wcwidth==0.1.7
 webencodings==0.5.1
 websocket-client==0.56.0
-Werkzeug==0.14.1
+Werkzeug==3.0.6
 widgetsnbextension==3.4.2
 wordcloud==1.5.0
 wrapt==1.11.1
